@@ -25,8 +25,6 @@
  	<a href="https://www.twitch.tv/brazilianbug" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/le-macedo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/brazilianbug/brazilianbug/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
 
 <h2 align="left">GitHub achievements</h2>
