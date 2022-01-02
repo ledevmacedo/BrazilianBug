@@ -20,7 +20,8 @@
 
   ##
  
-<div> 
+<div>
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BrazilianBug&theme=dark&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
   <a href="https://instagram.com/leandro_overnight" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/brazilianbug" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/le-macedo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
