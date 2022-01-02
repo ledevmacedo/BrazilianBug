@@ -5,7 +5,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BrazilianBug&theme=dark"/>
   </div>
   <a href="https://github.com//BrazilianBug">
-   <img align="center"
+   <img align="left"
 </a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brazilianbug&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brazilianbug&layout=compact&langs_count=7&theme=dark"/>
