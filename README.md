@@ -6,9 +6,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brazilianbug&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brazilianbug&layout=compact&langs_count=7&theme=dark"/>
 </div>
-   <div>
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BrazilianBug&theme=dark&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
- </div>
+ 
 <div style="display: inline_block"><br>
     <img align="center" alt="HTML5" height="40" width="40" src="https://img.icons8.com/color/100/000000/html-5--v1.png"/>
     <img align="center" alt="CSS3" height="40" width="40" src="https://img.icons8.com/color/100/000000/css3.png"/>
