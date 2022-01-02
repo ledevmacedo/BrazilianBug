@@ -1,6 +1,7 @@
 <h1 align="center"> Olá! Eu sou o Leandro Macedo!<h1>
  <div>
   <a href="https://github.com//BrazilianBug">
+   <img align="left" src="https://camo.githubusercontent.com/838bbe0e656dcd5f92515ea15078b809617eb40c7b49d7c19b1e60b8777a7e65/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d6a75616e75646b26" alt="BrazilianBug" width="460" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=BrazilianBug&amp;" style="max-width: 100%;">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brazilianbug&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brazilianbug&layout=compact&langs_count=7&theme=dark"/>
 </div>
@@ -21,8 +22,6 @@
   ##
  
 <div>
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BrazilianBug&theme=dark&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
-  <a href="https://instagram.com/leandro_overnight" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/brazilianbug" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/le-macedo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
