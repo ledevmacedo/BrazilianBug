@@ -1,5 +1,5 @@
 <h1 align="center"> Olá! Eu sou o Leandro Macedo!<h1>
-
+<img src="https://user-images.githubusercontent.com/21015826/205455982-5644653c-2ec4-4e3a-beb7-ca761bb4bbb7.png"/>
  <div>
   <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BrazilianBug&theme=dark"/>
@@ -31,7 +31,6 @@
   ##
  
 <div>
- 	<a href="https://www.twitch.tv/brazilianbug" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/le-macedo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
